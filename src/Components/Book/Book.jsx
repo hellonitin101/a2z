@@ -29,7 +29,7 @@ const Book = () => {
 
     const [submitted, setSubmitted] = useState(false)
 
-    // A2 Z WhatsApp Number
+    // A 2 Z WhatsApp Number
     const whatsappNumber = '919461947107'
 
     // Handle Input Change
@@ -48,7 +48,7 @@ const Book = () => {
 
         // WhatsApp Message
         const message = `
-Hello A2 Z Tours & Travels!
+Hello A 2 Z Tours & Travels!
 
 I want to book a trip. Here are my details:
 
@@ -102,7 +102,7 @@ Thank You!
                 <div className="text-center mb-12">
 
                     <p className="text-[#70462E] text-xs md:text-sm tracking-[4px] uppercase font-semibold mb-3">
-                        A2 Z Tours & Travels
+                        A 2 Z Tours & Travels
                     </p>
 
                     <h1 className="text-3xl md:text-5xl font-serif font-bold text-[#101F23]">
@@ -377,7 +377,7 @@ Thank You!
 
                             <div>
                                 <h3 className="text-[#D9AF6C] font-semibold text-lg mb-2">
-                                    Thank You For Choosing A2 Z!
+                                    Thank You For Choosing A 2 Z!
                                 </h3>
 
                                 <p className="text-[#F5EBDD]/80 text-sm leading-7">

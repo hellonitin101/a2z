@@ -27,7 +27,7 @@ const Sedan = () => {
                 <div className="text-center mb-12">
 
                     <p className="text-[#70462E] text-xs md:text-sm tracking-[4px] uppercase font-semibold mb-3">
-                        A2 Z Tours & Travels
+                        A 2 Z Tours & Travels
                     </p>
 
                     <h1 className="text-4xl md:text-6xl font-serif font-bold text-[#101F23]">

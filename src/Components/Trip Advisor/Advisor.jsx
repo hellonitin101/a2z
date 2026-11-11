@@ -10,7 +10,7 @@ const Advisor = () => {
         tripDetails: ''
     })
 
-    // A2 Z WhatsApp Number
+    // A 2 Z WhatsApp Number
     const whatsappNumber = '918955229556'
 
     const handleChange = (e) => {
@@ -24,7 +24,7 @@ const Advisor = () => {
         e.preventDefault()
 
         const message = `
-Hello A2 Z Tours & Travels!
+Hello A 2 Z Tours & Travels!
 
 I want a Free Trip Advisor consultation.
 
@@ -59,7 +59,7 @@ Thank You!
                 <div className="text-center mb-12">
 
                     <p className="text-[#70462E] text-xs md:text-sm tracking-[4px] uppercase font-semibold mb-3">
-                        A2 Z Tours & Travels
+                        A 2 Z Tours & Travels
                     </p>
 
                     <h2 className="text-3xl md:text-5xl font-serif font-bold text-[#101F23]">

@@ -72,7 +72,7 @@ const Contact = () => {
                     </h2>
 
                     <p className="text-[#70462E]/80 mt-5 max-w-2xl mx-auto leading-7 text-sm md:text-base">
-                        Have a destination in mind? Get in touch with A2 Z
+                        Have a destination in mind? Get in touch with A 2 Z
                         Tours & Travels and let us help you plan a memorable
                         travel experience.
                     </p>
@@ -177,7 +177,7 @@ const Contact = () => {
 
                             <p className="relative max-w-sm text-[#F5EBDD]/60 leading-7 text-sm mb-8">
                                 From beautiful mountains to amazing
-                                destinations, let A2 Z Tours & Travels
+                                destinations, let A 2 Z Tours & Travels
                                 make your travel dreams come true.
                             </p>
 

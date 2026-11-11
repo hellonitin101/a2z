@@ -71,7 +71,7 @@ const Services = () => {
 
                     {/* Rental Introduction */}
                     <p className="text-[#70462E]/90 text-sm md:text-base max-w-3xl mx-auto mt-5 leading-7">
-                        At A2 Z Tours & Travels, we provide all our vehicles
+                        At A 2 Z Tours & Travels, we provide all our vehicles
                         on a rental basis as well as daily basis. Whether you
                         need a car for a single day, family vacation, local
                         sightseeing or an outstation journey, we offer

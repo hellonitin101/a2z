@@ -57,7 +57,7 @@ const About = () => {
                     <p className="text-[#70462E]/80 text-sm md:text-base max-w-2xl mx-auto mt-4 leading-7">
                         Your journey begins with us. Discover beautiful destinations,
                         explore new places and create unforgettable memories with
-                        A2 Z Tours & Travels.
+                        A 2 Z Tours & Travels.
                     </p>
 
                     <div className="w-16 h-[2px] bg-[#D9AF6C] mx-auto mt-6"></div>
@@ -107,7 +107,7 @@ const About = () => {
                         </h2>
 
                         <p className="text-[#70462E]/80 text-sm md:text-base leading-7 mb-4">
-                            At A2 Z Tours & Travels, we believe that travelling
+                            At A 2 Z Tours & Travels, we believe that travelling
                             is more than just visiting new places. It is about
                             discovering different cultures, experiencing nature
                             and creating beautiful memories.
@@ -164,7 +164,7 @@ const About = () => {
                         </p>
 
                         <h2 className="text-2xl md:text-4xl font-serif font-semibold text-[#F5EBDD]">
-                            Travel With A2 Z
+                            Travel With A 2 Z
                         </h2>
 
                         <p className="text-[#F5EBDD]/60 text-sm mt-3">
@@ -220,7 +220,7 @@ const About = () => {
 
                             <img
                                 src={Founder}
-                                alt="Mukesh Singh Shekhawat - Founder of A2 Z Tours and Travels"
+                                alt="Mukesh Singh Shekhawat - Founder of A 2 Z Tours and Travels"
                                 className="w-full h-full object-cover object-top"
                             />
 
@@ -243,7 +243,7 @@ const About = () => {
                         </h2>
 
                         <p className="text-[#F5EBDD]/60 text-sm mt-4 mb-6">
-                            Founder of A2 Z Tours & Travels
+                            Founder of A 2 Z Tours & Travels
                         </p>
 
                         <div className="w-14 h-[2px] bg-[#D9AF6C] mb-6 mx-auto md:mx-0"></div>
@@ -251,7 +251,7 @@ const About = () => {
                         <p className="text-[#F5EBDD]/70 text-sm md:text-base leading-7">
                             With a passion for travel and a vision to create
                             memorable experiences, Mukesh Singh Shekhawat
-                            leads A2 Z Tours & Travels with a commitment
+                            leads A 2 Z Tours & Travels with a commitment
                             to making every journey special.
                         </p>
 
@@ -260,7 +260,7 @@ const About = () => {
                             <MapPin size={19} className="text-[#D9AF6C]" />
 
                             <span className="text-[#D9AF6C] text-sm">
-                                Explore The India With A2 Z
+                                Explore The India With A 2 Z
                             </span>
 
                         </div>

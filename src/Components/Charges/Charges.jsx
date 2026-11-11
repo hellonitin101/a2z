@@ -50,7 +50,7 @@ const Charges = () => {
 
                     <p className="text-[#70462E]/80 text-sm md:text-base max-w-2xl mx-auto mt-4 leading-7">
                         Know about additional travel charges and enjoy
-                        complimentary benefits with A2 Z Tours & Travels.
+                        complimentary benefits with A 2 Z Tours & Travels.
                     </p>
 
                     <div className="w-20 h-[2px] bg-[#D9AF6C] mx-auto mt-5"></div>

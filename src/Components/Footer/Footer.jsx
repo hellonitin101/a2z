@@ -24,7 +24,7 @@ const Footer = () => {
 
                     <p className="text-sm text-[#F5EBDD]/60 text-center max-w-md leading-7">
                         Discover beautiful destinations and create
-                        unforgettable memories with A2 Z Tours & Travels.
+                        unforgettable memories with A 2 Z Tours & Travels.
                     </p>
 
                 </div>
@@ -35,7 +35,7 @@ const Footer = () => {
                 {/* Copyright */}
                 <div className="text-center">
                     <p className="text-xs md:text-sm text-[#F5EBDD]/50">
-                        © 2026 A2 Z Tours & Travels. All Rights Reserved.
+                        © 2026 A 2 Z Tours & Travels. All Rights Reserved.
                     </p>
                 </div>
 
